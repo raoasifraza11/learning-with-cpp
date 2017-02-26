@@ -1,0 +1,21 @@
+{
+  "name": "learning-with-cpp",
+  "authors": [
+    "raoasifraza <raoasifraza1@hotmail.com>"
+  ],
+  "description": "This project is created for programming tutrioal with cpp basics to advanced.",
+  "main": "index.html",
+  "keywords": [
+    "cpp",
+    "tutorial"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
